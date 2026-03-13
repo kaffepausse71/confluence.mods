@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.confluence.1080.netflix.skinbase" version="6.0.2" name="Confluence 1080 Netflix (SKINBASE)" provider-name="Jezz_X, Team Kodi">
+<addon id="skin.confluence.1080.netflix.skinbase" version="6.0.8" name="Confluence 1080 Netflix (SKINBASE)" provider-name="Jezz_X, Team Kodi">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0"/>
 	</requires>
-	<extension point="xbmc.gui.skin" debugging="true" effectslowdown="1.0">
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
 		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
 	</extension>
 	<extension point="xbmc.addon.metadata">
