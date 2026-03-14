@@ -252,7 +252,7 @@
 	</extension>
 </addon>
 
-<addon id="skin.confluence.1080.netflix.skinbase" version="6.0.8" name="Confluence 1080 Netflix (SKINBASE)" provider-name="Jezz_X, Team Kodi">
+<addon id="skin.confluence.1080.netflix.skinbase" version="6.0.9" name="Confluence 1080 Netflix (SKINBASE)" provider-name="Jezz_X, Team Kodi">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0"/>
 	</requires>
